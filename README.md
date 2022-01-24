@@ -15,10 +15,10 @@ A basic todo app in flutter with below functionalities :
 11. User is prompted to save the progress in local storage and the app shows the latest data when restarted again.
 12. Basic unit tests are written for :
 	- Adding an item
-   - Marking an item complete
-   - Marking an item incomplete
-   - Deleting an item
-   - Updating title of an item
+  	- Marking an item complete
+  	- Marking an item incomplete
+  	- Deleting an item
+ 	- Updating title of an item
 
 
 
